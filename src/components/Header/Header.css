@@ -1,0 +1,19 @@
+.header-content{
+    min-height: 75vh;
+    background: linear-gradient(rgba(236, 236, 236, 0.3), rgba(0, 0, 0, 0.5)), url("../../images/27313.jpg") center/cover no-repeat ;;
+    flex-direction: column;
+    position: relative;
+}
+
+.header-title{
+   
+    font-family: 'Inter', sans-serif;
+    font-size: 4.2rem;
+}
+.header-text{
+    
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
